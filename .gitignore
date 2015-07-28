@@ -42,5 +42,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Ignore Target Directory
+# Ignore Target Directory. Testing Revert. Added comment 
 target/
