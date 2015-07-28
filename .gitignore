@@ -42,5 +42,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Ignore Target Directory while checking in Java Code
+# Ignore Target Directory
 target/
